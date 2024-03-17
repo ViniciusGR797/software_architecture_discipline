@@ -1,0 +1,11 @@
+{
+  "name": "software_architecture_discipline",
+  "version": "1.0.0",
+  "description": "Project to accompany the software architecture discipline at UTFPR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ViniciusGR797 <loritoamarelo@outlook.com>",
+  "license": "MIT"
+}
